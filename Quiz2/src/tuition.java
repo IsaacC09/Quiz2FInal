@@ -15,7 +15,7 @@ public class tuition {
 		double PER_INC = (input.nextDouble()) / 100; // Taking variable for
 														// percent increase of
 														// tuition for each
-														// year at UD
+					 									// year at UD
 
 		input.close();
 
